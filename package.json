@@ -1,0 +1,32 @@
+{
+  "name": "ninepod2",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ninepod2 ร้านค้าจำหน่ายบุหรี่ไฟฟ้าที่ราคาดีที่สุด",
+  "keywords": [
+    "พอตพร้อมสูบ",
+		"pod",
+		"พอตไฟฟ้า",
+		"พอตใช้แล้งทิ้ง",
+		"พอตราคาถูก",
+		"พอตเรทส่ง",
+		"พอดเรทส่ง",
+		"พอตส่งฟรี",
+		"fof",
+		"fofplus",
+		"podtiktok",
+		"infin",
+		"relx",
+		"infinity",
+		"ks",
+		"quick",
+		"jues",
+		"phantom",
+		"ksquick"
+  ],
+  "repository": "https://github.com/sornz154/ninepod2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
